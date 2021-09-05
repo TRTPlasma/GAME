@@ -3,6 +3,9 @@ const cors = require('cors')
 const userRoutes = require('./routes/user.routes')
 
 require('dotenv').config({path: './config/.env'})
+require('./config/db')
+
+const { checkUser, requireAuth } = require('./middleware/auth.middleware')
 
 const app = express()
 
