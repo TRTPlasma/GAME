@@ -1,3 +1,6 @@
-npm i
-cd client
-npm i
+$ npm i
+<br>
+<br>
+$ cd client
+<br>
+$ npm i
