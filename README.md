@@ -1,6 +1,6 @@
-$ npm i
+$ <code>npm i</code>
 <br>
 <br>
-$ cd client
+$ <code>cd client</code>
 <br>
-$ npm i
+$ <code>npm i</code>
